@@ -1,0 +1,13 @@
+This project is for "test" Purposes only
+
+Pre-Requirements
+*JDK 1.8
+*Eclipse-neon
+*Gradle 3.2.1 Installation (https://gradle.org/gradle-download/)
+
+To build this project
+1. Open Command line
+2. Go to project directory e.g (C:\amaysim-workspace2\amaysim-test)
+3. run command  'gradle build'
+4. run test only 'gradle test'
+5. test results will be displayed on project directory build file e.g (file:///C:/amaysim-workspace2/amaysim-test/build/reports/tests/test/classes/)

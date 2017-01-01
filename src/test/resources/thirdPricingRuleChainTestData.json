@@ -1,0 +1,14 @@
+ [
+	{
+		"productCode": "ult_small",
+		"productName": "Unlimited 1GB",
+		"price": 24.90,
+		"quantity": 1
+	},
+	{
+		"productCode": "ult_medium",
+		"productName": "Unlimited 2GB",
+		"price": 29.90,
+		"quantity": 2
+	}
+]

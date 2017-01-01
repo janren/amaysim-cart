@@ -1,0 +1,20 @@
+ [
+	{
+		"productCode": "ult_small",
+		"productName": "Unlimited 1GB",
+		"price": 24.90,
+		"quantity": 1
+	},
+	{
+		"productCode": "1gb",
+		"productName": "1 GB Data-pack",
+		"price": 9.90,
+		"quantity": 1
+	},
+	{
+		"productCode": "I<3AMAYSIM",
+		"productName": "I<3AMAYSIM' Promo Applied",
+		"price": 0.00,
+		"quantity": 1
+	}
+]
